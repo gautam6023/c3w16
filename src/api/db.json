@@ -1,0 +1,322 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Unlocking Android",
+      "isbn": "1933988673",
+      "pageCount": 416,
+      "publishedDate": {
+        "$date": "2009-04-01T00:00:00.000-0700"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/almiray.jpg",
+      "shortDescription": "Unlocking Android: A Developer's Guide provides concise, hands-on instruction for the Android operating system and development tools. This book teaches important architectural concepts in a straightforward writing style and builds on this with practical and useful examples throughout.",
+      "longDescription": "fsdfdffbgfg",
+      "status": "PUBLISH",
+      "authors": [
+        "W. Frank Ableson",
+        "Charlie Collins",
+        "Robi Sen"
+      ],
+      "categories": [
+        "Open Source",
+        "Mobile"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Flex on Java",
+      "isbn": "1933988797",
+      "pageCount": 265,
+      "publishedDate": {
+        "$date": "2010-10-15T00:00:00.000-0700"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alves.jpg",
+      "shortDescription": "   A beautifully written book that is a must have for every Java Developer.       Ashish Kulkarni, Technical Director, E-Business Software Solutions Ltd.",
+      "longDescription": "",
+      "status": "PUBLISH",
+      "authors": [
+        "Bernerd Allmon",
+        "Jeremy Anderson"
+      ],
+      "categories": [
+        "Internet"
+      ],
+      "data": {
+        "longDescription": "fghjkl,mnbvcvbnm,.lkjhgfcghk.nvbnmjl",
+        "thumbnailUrl": "https://thumbs.dreamstime.com/b/no-thumbnail-image-placeholder-forums-blogs-websites-148010362.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Griffon in Action",
+      "isbn": "1935182234",
+      "pageCount": 375,
+      "publishedDate": {
+        "$date": "2012-06-04T00:00:00.000-0700"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/almiray.jpg",
+      "shortDescription": "Griffon in Action is a comprehensive tutorial written for Java developers who want a more productive approach to UI development. In this book, you'll immediately dive into Griffon. After a Griffon orientation and a quick Groovy tutorial, you'll start building examples that explore Griffon's high productivity approach to Swing development. One of the troublesome parts of Swing development is the amount of Java code that is required to get a simple application off the ground.",
+      "longDescription": "Although several options exist for interface development in Java, even popular UI toolkits like Swing have been notoriously complex and difficult to use. Griffon, an agile framework that uses Groovy to simplify Swing, makes UI development dramatically faster and easier. In many respects, Griffon is for desktop development what Grails is for web development. While it's based on Swing, its declarative style and approachable level of abstraction is instantly familiar to developers familiar with other technologies such as Flex or JavaFX.    Griffon in Action is a comprehensive tutorial written for Java developers who want a more productive approach to UI development. In this book, you'll immediately dive into Griffon. After a Griffon orientation and a quick Groovy tutorial, you'll start building examples that explore Griffon's high productivity approach to Swing development. One of the troublesome parts of Swing development is the amount of Java code that is required to get a simple application off the ground.    You'll learn how SwingBuilder (and its cousin builders) present a very palatable alternative in the form of a DSL geared towards building graphical user interfaces. Pair it up with the convention over configuration paradigm, a well tested and tried application source structure (based on Grails) and you have a recipe for quick and effective Swing application development. Griffon in Action covers declarative view development, like the one provided by JavaFX Script, as well as the structure, architecture and life cycle of Java application development",
+      "status": "PUBLISH",
+      "authors": [
+        "Andres Almiray",
+        "Danno Ferrin",
+        "",
+        "James Shingler"
+      ],
+      "categories": [
+        "Java"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "OSGi in Depth",
+      "isbn": "193518217X",
+      "pageCount": 325,
+      "publishedDate": {
+        "$date": "2011-12-12T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alves.jpg",
+      "shortDescription": "Enterprise OSGi shows a Java developer how to develop to the OSGi Service Platform Enterprise specification, an emerging Java-based technology for developing modular enterprise applications. Enterprise OSGi addresses several shortcomings of existing enterprise platforms, such as allowing the creation of better maintainable and extensible applications, and provide a simpler, easier-to-use, light-weight solution to enterprise software development.",
+      "longDescription": "A good application framework greatly simplifies a developer's task by providing reusable code modules that solve common, tedious, or complex tasks. Writing a great framework requires an extraordinary set of skills-ranging from deep knowledge of a programming language and target platform to a crystal-clear view of the problem space where the applications to be developed using the framework will be used.    OSGi Application Frameworks shows a Java developer how to build frameworks based on the OSGi service platform. OSGi, an emerging Java-based technology for developing modular applications, is a great tool for framework building. A framework itself, OSGi allows the developer to create a more intuitive, modular framework by isolating many of the key challenges the framework developer faces.    This book begins by describing the process, principles, and tools you must master to build a custom application framework. It introduces the fundamental concepts of OSGi, and then shows you how to put OSGi to work building various types of frameworks that solve specific development problems.    OSGi is particularly useful for building frameworks that can be easily extended by developers to create domain-specific applications. This book teaches the developer to break down a problem domain into its abstractions and then use OSGi to create a modular framework solution. Along the way, the developer learns software engineering practices intrinsic to framework building that result in systems with better software qualities, such as flexibility, extensibility, and maintainability.    Author Alexandre Alves guides you through major concepts, such as the definition of programming models and modularization techniques, and complements them with samples that have real applicability using industry-proved technologies, such as Spring-DM and Equinox.",
+      "status": "PUBLISH",
+      "authors": [
+        "Alexandre de Castro Alves"
+      ],
+      "categories": [
+        "Java"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Flexible Rails",
+      "isbn": "1933988509",
+      "pageCount": 592,
+      "publishedDate": {
+        "$date": "2008-01-01T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/armstrong.jpg",
+      "shortDescription": "\"Flexible Rails created a standard to which I hold other technical books. You definitely get your money's worth.\"",
+      "longDescription": "Rails is a fantastic tool for web application development, but its Ajax-driven interfaces stop short of the richness you gain with a tool like Adobe Flex. Simply put, Flex is the most productive way to build the UI of rich Internet applications, and Rails is the most productive way to rapidly build a database-backed CRUD application. Together, they're an amazing combination.    Flexible Rails is a book about how to use Ruby on Rails and Adobe Flex to build next-generation rich Internet applications (RIAs). The book takes you to the leading edge of RIA development, presenting examples in Flex 3 and Rails 2.    This book is not an exhaustive Ruby on Rails tutorial, nor a Flex reference manual. (Adobe ships over 3000 pages of PDF reference documentation with Flex.) Instead, it's an extensive tutorial, developed iteratively, how to build an RIA using Flex and Rails together. You learn both the specific techniques you need to use Flex and Rails together as well as the development practices that make the combination especially powerful.    The example application built in the book is MIT-licensed, so readers can use it as the basis for their own applications. In fact, one reader has already built an agile project management tool based on the book example!    With this book, you learn Flex by osmosis. You can read the book and follow along even if you have never used Flex before. Consider it \"Flex Immersion.\" You absorb the key concepts of Flex as you go through the process of building the application.    You will also learn how Flex and Rails integrate with HTTPService and XML, and see how RESTful Rails controller design gracefully supports using the same controller actions for Flex and HTML clients. The author will show you how Cairngorm can be used to architect larger Flex applications, including tips to use Cairngorm in a less verbose way with HTTPService to talk to Rails.    Flexible Rails is for both Rails developers who are interested in Flex, and Flex developers who are interested in Rails. For a Rails developer, Flex allows for more dynamic and engaging user interfaces than are possible with Ajax. For a Flex developer, Rails provides a way to rapidly build the ORM and services layer of the application.",
+      "status": "PUBLISH",
+      "authors": [
+        "Peter Armstrong"
+      ],
+      "categories": [
+        "Web Development"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Hello! Flex 4",
+      "isbn": "1933988762",
+      "pageCount": 258,
+      "publishedDate": {
+        "$date": "2009-11-01T00:00:00.000-0700"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/armstrong3.jpg",
+      "shortDescription": "Hello! Flex 4 progresses through 26 self-contained examples selected so you can progressively master Flex. They vary from small one-page apps, to a 3D rotating haiku, to a Connect Four-like game. And in the last chapter you'll learn to build a full Flex application called SocialStalkr   a mashup that lets you follow your friends by showing their tweets on a Yahoo map.",
+      "longDescription": "With Flex 4 you can easily add color and life to your web applications by introducing dynamic user features, slick transitions, and eye-catching animations. Flex also provides powerful data handling capabilities so you can build industrial-strength applications. And it's open source, so you can get started without forking over a lot of your hard-earned cash.    We think it should be just as much fun to learn Flex as it is to use Flex. Hello! Flex 4 shows you everything you need to know to get started with Flex 4 without bogging you down in obscure detail or academic edge cases. In this entertaining, hands-on book, you'll quickly move from Hello World into the techniques you'll need to use Flex effectively.    You'll start by progressing through 26 self-contained workshop items, which include everything from small one-page examples, to a 3D rotating haiku, to building a Connect Four game. Finally, in the last chapter you'll build a full Flex application called 'SocialStalkr': an interesting mashup of Twitter and Yahoo Maps that lets you 'stalk' your friends by showing specially formatted Twitter tweets on a Yahoo map.",
+      "status": "PUBLISH",
+      "authors": [
+        "Peter Armstrong"
+      ],
+      "categories": [
+        "Internet"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Coffeehouse",
+      "isbn": "1884777384",
+      "pageCount": 316,
+      "publishedDate": {
+        "$date": "1997-07-01T00:00:00.000-0700"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/asher.jpg",
+      "shortDescription": "Coffeehouse is an anthology of stories, poems and essays originally published on the World Wide Web.",
+      "longDescription": "Coffeehouse is an anthology of stories, poems and essays originally published on the World Wide Web. The purpose is to capture the zeitgeist of the web's creative community, and to give readers a chance to enjoy some of the best and most notable original works that have appeared in this form. It showcases over forty individual web writers, among them Joseph Squier, Martha Conway, Jason Snell, David Alexander, Carl Steadman and Walter Miller. The intent is to show the variety and vitality of the web's blossoming literary \"scene,\" and to capture the unique and highly iconoclastic \"personality\" of the web community.",
+      "status": "PUBLISH",
+      "authors": [
+        "Levi Asher",
+        "Christian Crumlish"
+      ],
+      "categories": [
+        "Miscellaneous"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Team Foundation Server 2008 in Action",
+      "isbn": "1933988592",
+      "pageCount": 344,
+      "publishedDate": {
+        "$date": "2008-12-01T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/azher.jpg",
+      "longDescription": "In complex software projects, managing the development process can be as critical to success as writing the code itself. A project may involve dozens of developers, managers, architects, testers, and customers, hundreds of builds, and thousands of opportunities to get off-track. To keep tabs on the people, tasks, and components of a medium- to large-scale project, most teams use a development system that allows for easy monitoring, follow-up, and accountability.    Microsoft Team Foundation Server 2008 (TFS), the server component of Microsoft's Visual Studio Team System (VSTS), provides a powerful collaborative platform for software-development teams. The product offers an integrated toolset for tracking work items, creating test cases, managing source code, generating builds, constructing database schemas, and so on. Because in software development one size does not fit all, TFS provides process customization, project management, and reporting capabilities to build solutions around your requirements.    Team Foundation Server 2008 in Action is a hands-on guide to Team Foundation Server 2008. Written for developers with a good handle on TFS basics, this book shows you how to solve real-life problems. It's not a repetition of Microsoft's product documentation. Team Foundation Server 2008 in Action is a practitioner's handbook for how to work with TFS under common constraints. This book walks you through real-life software engineering problems based on hundreds of hours of TFS experience.    You'll benefit from expert author Jamil Azher's extensive interactions with members of Microsoft's TFS team and MVPs, survey feedback from the author's blog, and interviews with organizations and user groups using TFS. Instead of just offering a high-level overview, the book provides detailed solutions for solving common   and not-so-common   problems using TFS. It discusses the strengths as well as weaknesses of TFS, and suggests appropriate problem resolution steps, workarounds, or custom solutions.",
+      "status": "PUBLISH",
+      "authors": [
+        "Jamil Azher"
+      ],
+      "categories": [
+        "Microsoft .NET"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Brownfield Application Development in .NET",
+      "isbn": "1933988711",
+      "pageCount": 550,
+      "publishedDate": {
+        "$date": "2010-04-16T00:00:00.000-0700"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/baley.jpg",
+      "shortDescription": "Brownfield Application Development in .Net shows you how to approach legacy applications with the state-of-the-art concepts, patterns, and tools you've learned to apply to new projects. Using an existing application as an example, this book guides you in applying the techniques and best practices you need to make it more maintainable and receptive to change.",
+      "longDescription": "It's easy to get excited about building a new software project from scratch. So-called \"greenfield\" projects often involve learning new technology and the opportunity for experimentation. Working on established software projects may seem less glamorous.    Most software developers have inherited a monolithic application where the day-to-day tasks involve maintenance, incremental improvements, or even cleaning up the mess another programmer left behind. These legacy or brownfield projects often have tightly coupled components, low cohesion, and poor separation of concerns, making them fragile and resistant to change.    Brownfield Application Development in .Net shows you how to approach legacy applications with the state-of-the-art concepts, patterns, and tools you've learned to apply to new projects. Using an existing application as an example, this book guides you in applying the techniques and best practices you need to make it more maintainable and receptive to change.    Starting with the build process and the introduction of unit tests, the authors show you how to set up the application so that in later chapters, you can make incremental changes aimed at decoupling components from each other. Each practice introduced will increase your confidence and ability to make subsequent changes to your code.    As the book proceeds, the authors introduce frameworks and tools commonly used today while still approaching the subject from a conceptual level so that you can substitute alternate tools as appropriate. This book examines the reasons why a tool is necessary, not the tool itself. Because the book is based on the authors' experiences, Brownfield Application Development in .Net moves beyond the theories and shows you the techniques you need to be successful.",
+      "status": "PUBLISH",
+      "authors": [
+        "Kyle Baley",
+        "Donald Belcham"
+      ],
+      "categories": [
+        "Microsoft"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "MongoDB in Action",
+      "isbn": "1935182870",
+      "pageCount": 0,
+      "publishedDate": {
+        "$date": "2011-12-12T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/banker.jpg",
+      "shortDescription": "MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+      "longDescription": "MongoDB is a document-oriented database that's highly scalable and delivers very high-performance, especially with massive data sets that need to be spread across multiple servers. It blends the things you expect with any database   like indexing, querying, and high availability   with powerful new features like easy horizontal scaling (\"auto-sharding\"), map/reduce aggregation, and a flexible document data model to support dynamic schemas.    MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.    Along the way, all of MongoDB's major features are covered, including:        * Indexes and explain plans for efficient queries      * Atomic operations for managing simple data structures and manipulating complex, rich documents      * GridFS for storing and managing large binary objects (images, videos, etc.) in MongoDB      * Map-reduce for custom aggregations and reporting      * Master-slave replication and replica sets for automated failover      * Auto-sharding for automated horizontal scaling    The handy reference section on schema design patterns will help ease the transition from the relational data model of SQL to MongoDB's document-based data model. The numerous, detailed examples are implemented in Ruby and include comprehensive explanations.    MongoDB has been gaining traction in the developer community for its speed, flexibility, scalability, and ease of use. With production deployments that include SourceForge, Foursquare, and Shutterfly, MongoDB is proving to be a robust and reliable database system that keeps developers happy. Covering everything from installation to application design to deployment, MongoDB In Action is written for the application developer who wants to take advantage of MongoDB and get up and running quickly.",
+      "status": "PUBLISH",
+      "authors": [
+        "Kyle Banker"
+      ],
+      "categories": [
+        "Next Generation Databases"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Android in Action, Second Edition",
+      "isbn": "1935182722",
+      "pageCount": 592,
+      "publishedDate": {
+        "$date": "2011-01-14T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "data:image/jpeg;base64,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",
+      "shortDescription": "Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond \"Hello Android,\" this fast-paced book puts you in the driver's seat as you learn important architectural concepts and implementation strategies. You'll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android's built-in features by building useful and intriguing examples. ",
+      "longDescription": "",
+      "status": "PUBLISH",
+      "authors": [
+        "W. Frank Ableson",
+        "Robi Sen"
+      ],
+      "categories": [
+        "Java"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Specification by Example",
+      "isbn": "1617290084",
+      "pageCount": 0,
+      "publishedDate": {
+        "$date": "2011-06-03T00:00:00.000-0700"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/adzic.jpg",
+      "status": "PUBLISH",
+      "authors": [
+        "Gojko Adzic"
+      ],
+      "categories": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Flex 3 in Action",
+      "isbn": "1933988746",
+      "pageCount": 576,
+      "publishedDate": {
+        "$date": "2009-02-02T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed.jpg",
+      "longDescription": "New web applications require engaging user-friendly interfaces   and the cooler, the better. With Flex 3, web developers at any skill level can create high-quality, effective, and interactive Rich Internet Applications (RIAs) quickly and easily. Flex removes the complexity barrier from RIA development by offering sophisticated tools and a straightforward programming language so you can focus on what you want to do instead of how to do it. And now that the major components of Flex are free and open-source, the cost barrier is gone, as well!    Flex 3 in Action is an easy-to-follow, hands-on Flex tutorial. Chock-full of examples, this book goes beyond feature coverage and helps you put Flex to work in real day-to-day tasks. You'll quickly master the Flex API and learn to apply the techniques that make your Flex applications stand out from the crowd.    Interesting themes, styles, and skins  It's in there.  Working with databases  You got it.  Interactive forms and validation  You bet.  Charting techniques to help you visualize data  Bam!  The expert authors of Flex 3 in Action have one goal   to help you get down to business with Flex 3. Fast.    Many Flex books are overwhelming to new users   focusing on the complexities of the language and the super-specialized subjects in the Flex eco-system; Flex 3 in Action filters out the noise and dives into the core topics you need every day. Using numerous easy-to-understand examples, Flex 3 in Action gives you a strong foundation that you can build on as the complexity of your projects increases.",
+      "status": "PUBLISH",
+      "authors": [
+        "Tariq Ahmed with Jon Hirschi",
+        "Faisal Abid"
+      ],
+      "categories": [
+        "Internet"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Flex 4 in Action",
+      "isbn": "1935182420",
+      "pageCount": 600,
+      "publishedDate": {
+        "$date": "2010-11-15T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed2.jpg",
+      "longDescription": "Using Flex, you can create high-quality, effective, and interactive Rich Internet Applications (RIAs) quickly and easily. Flex removes the complexity barrier from RIA development by offering sophisticated tools and a straightforward programming language so you can focus on what you want to do instead of how to do it. And the new features added in Flex 4 give you an even wider range of options!    Flex 4 in Action is an easy-to-follow, hands-on Flex tutorial that goes beyond feature coverage and helps you put Flex to work in real day-to-day tasks. You'll quickly master the Flex API and learn to apply the techniques that make your Flex applications stand out from the crowd.    The expert authors of Flex 4 in Action have one goal-to help you get down to business with Flex. Fast. Flex 4 in Action filters out the noise and dives into the core topics you need every day. Using numerous easy-to-understand examples, Flex 4 in Action gives you a strong foundation that you can build on as the complexity of your projects increases.    Interesting themes, styles, and skins  It's in there.  Working with databases  You got it.  Interactive forms and validation  You bet.  Charting techniques to help you visualize data  Bam!  And you'll get full coverage of these great Flex 4 upgrades:  Next generation Spark components-New buttons, form inputs, navigation controls and other visual components replace the Flex 3 \"Halo\" versions. Spark components are easier to customize, which makes skinning and theme design much faster  A new \"network monitor\" allows you to see the data communications between a Flex application and a backend server, which helps when trying to debug applications that are communicating to another system/service  Numerous productivity boosting features that speed up the process of creating applications  A faster compiler to take your human-written source code and convert it into a machine-readable format  Built-in support for unit testing allows you to improve the quality of your software, and reduce the time spent in testing",
+      "status": "PUBLISH",
+      "authors": [
+        "Tariq Ahmed",
+        "Dan Orlando",
+        "John C. Bland II",
+        "Joel Hooks"
+      ],
+      "categories": [
+        "Internet"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Collective Intelligence in Action",
+      "isbn": "1933988312",
+      "pageCount": 425,
+      "publishedDate": {
+        "$date": "2008-10-01T00:00:00.000-0700"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alag.jpg",
+      "longDescription": "There's a great deal of wisdom in a crowd, but how do you listen to a thousand people talking at once  Identifying the wants, needs, and knowledge of internet users can be like listening to a mob.    In the Web 2.0 era, leveraging the collective power of user contributions, interactions, and feedback is the key to market dominance. A new category of powerful programming techniques lets you discover the patterns, inter-relationships, and individual profiles   the collective intelligence   locked in the data people leave behind as they surf websites, post blogs, and interact with other users.    Collective Intelligence in Action is a hands-on guidebook for implementing collective-intelligence concepts using Java. It is the first Java-based book to emphasize the underlying algorithms and technical implementation of vital data gathering and mining techniques like analyzing trends, discovering relationships, and making predictions. It provides a pragmatic approach to personalization by combining content-based analysis with collaborative approaches.    This book is for Java developers implementing collective intelligence in real, high-use applications. Following a running example in which you harvest and use information from blogs, you learn to develop software that you can embed in your own applications. The code examples are immediately reusable and give the Java developer a working collective intelligence toolkit.    Along the way, you work with, a number of APIs and open-source toolkits including text analysis and search using Lucene, web-crawling using Nutch, and applying machine learning algorithms using WEKA and the Java Data Mining (JDM) standard.",
+      "status": "PUBLISH",
+      "authors": [
+        "Satnam Alag"
+      ],
+      "categories": [
+        "Internet"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Zend Framework in Action",
+      "isbn": "1933988320",
+      "pageCount": 432,
+      "publishedDate": {
+        "$date": "2008-12-01T00:00:00.000-0800"
+      },
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
+      "shortDescription": "Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application.",
+      "longDescription": "From rather humble beginnings as the Personal Home Page scripting language, PHP has found its way into almost every server, corporation, and dev shop in the world. On an average day, somewhere between 500,000 and 2 million coders do something in PHP. Even when you use a well-understood language like PHP, building a modern web application requires tools that decrease development time and cost while improving code quality. Frameworks such as Ruby-on-Rails and Django have been getting a lot of attention as a result.     For PHP coders, the Zend Framework offers that same promise without the need to move away from PHP. This powerful collection of components can be used in part or as a whole to speed up the development process. Zend Framework has the backing of Zend Technologies; the driving force behind the PHP programming language in which it is written. The first production release of the Zend Framework became available in July of 2007.    Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application. This book is organized around the techniques you'll use every day as a web developer \"data handling, forms, authentication, and so forth. As you follow the running example, you'll learn to build interactive Ajax-driven features into your application without sacrificing nuts-and-bolts considerations like security and performance.  This book is aimed at the competent PHP developer who wants to master framework-driven web development. Zend Framework in Action goes beyond the docs but still provides quick access to the most common topics encountered in the development of web applications.  ",
+      "status": "PUBLISH",
+      "authors": [
+        "Rob Allen",
+        "Nick Lo",
+        "Steven Brown"
+      ],
+      "categories": [
+        "Web Development"
+      ]
+    }
+  ]
+}
